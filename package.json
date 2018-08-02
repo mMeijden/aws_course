@@ -8,7 +8,5 @@
   "dependencies": {
     "papaparse": "^4.6.0"
   },
-  "devDependencies": {
-    "aws-sdk": "^2.285.1"
-  }
+  "devDependencies": {}
 }

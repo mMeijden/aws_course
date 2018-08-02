@@ -1,0 +1,5 @@
+orderId,orderDate,itemId,itemDescription,warehouseLocation,amount
+1,2018-07-31,1,Orange Ball,AX_01_23_126,1
+2,2018-07-31,2,Play Bone,AX_01_24_786,2
+3,2018-01-01,6,Cat litter 6KG,AX_02_03_235,1
+3,2018-01-01,7,Top Paw Dog Pad XL,AD_01_02_039,2
